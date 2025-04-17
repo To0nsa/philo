@@ -1,0 +1,19 @@
+<map id="include/philo.h" name="include/philo.h">
+<area shape="rect" id="Node000001" title="Core declarations for the Dining Philosophers project." alt="" coords="564,5,681,31"/>
+<area shape="rect" id="Node000002" href="$cooks_8c.html" title="Utility functions for time and string output." alt="" coords="5,79,107,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="550,29,355,50,119,81,107,83,107,78,118,76,355,45,550,24"/>
+<area shape="rect" id="Node000003" href="$dinner__monitor_8c.html" title="Handles philosopher termination and simulation lifecycle." alt="" coords="131,79,293,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="551,34,278,81,277,76,550,29"/>
+<area shape="rect" id="Node000004" href="$dinner__routine_8c.html" title="Implements the behavior of each philosopher thread." alt="" coords="317,79,475,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="574,37,433,81,432,76,572,32"/>
+<area shape="rect" id="Node000005" href="$main_8c.html" title="Entry point of the philosopher simulation." alt="" coords="499,79,595,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="602,42,561,80,557,76,599,38"/>
+<area shape="rect" id="Node000006" href="$receive__guests_8c.html" title="Validates CLI arguments before starting the simulation." alt="" coords="619,79,781,104"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="647,38,689,76,686,80,643,42"/>
+<area shape="rect" id="Node000007" href="$set__dinner_8c.html" title="Functions for initializing philosophers and simulation parameters." alt="" coords="805,79,936,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="676,32,831,76,830,81,675,37"/>
+<area shape="rect" id="Node000008" href="$set__rules_8c.html" title="Initialize mutexes used for philosopher synchronization." alt="" coords="960,79,1083,104"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="695,29,960,76,959,82,694,35"/>
+<area shape="rect" id="Node000009" href="$waiters_8c.html" title="Handles timing, printing, and end&#45;state checking for philosophers." alt="" coords="1107,79,1218,104"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="696,25,1095,76,1107,78,1107,83,1094,81,695,30"/>
+</map>
