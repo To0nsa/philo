@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['waiters_2ec_0',['waiters.c',['../waiters_8c.html',1,'']]],
-  ['welcome_5fphilosophers_1',['welcome_philosophers',['../group__philosopher__core.html#gae9eabd5eb5fe291006874dd47d37c025',1,'set_dinner.c']]]
+  ['validate_5fargument_5fcount_0',['validate_argument_count',['../receive__guests_8c.html#a41c194e6468a1c8466abb92497d79454',1,'receive_guests.c']]],
+  ['validate_5farguments_1',['validate_arguments',['../receive__guests_8c.html#a7a51d96b96d3a5f0a36a0361a1a237e2',1,'receive_guests.c']]]
 ];

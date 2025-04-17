@@ -1,10 +1,9 @@
 var searchData=
 [
-  ['last_5fmeal_0',['last_meal',['../group__philosopher__core.html#aaff3ca469432176405ef2f8d034e79dc',1,'s_philo']]],
-  ['left_5ffork_1',['left_fork',['../group__philosopher__core.html#a6c444e24e4b53b00145b3500e9cb34fa',1,'s_philo']]],
-  ['libft_20–_20c_20utility_20library_2',['libft – C Utility Library',['../index.html',1,'']]],
-  ['libft_20features_3',['Libft Features',['../index.html#autotoc_md2',1,'']]],
-  ['library_4',['libft – C Utility Library',['../index.html',1,'']]],
-  ['license_5',['📝 License',['../index.html#autotoc_md6',1,'']]],
-  ['lone_5fphilosopher_6',['lone_philosopher',['../dinner__routine_8c.html#aae331e9c70da4333e83ab47302e99481',1,'dinner_routine.c']]]
+  ['id_0',['id',['../group__philosopher__core.html#a27548ffe0896e8ecd9623b89f4a25b6a',1,'s_philo']]],
+  ['in_20c_1',['philo – Dining Philosophers Simulation in C',['../index.html',1,'']]],
+  ['is_5fdinner_5fover_2',['is_dinner_over',['../group__philosopher__core.html#gaa4e40d5c775b940c8ae8f176d38c8520',1,'waiters.c']]],
+  ['is_5ffull_3',['is_full',['../group__philosopher__core.html#ae558533137b4fd88f070635d99e1c1c4',1,'s_table']]],
+  ['is_5fsomeone_5fdead_5for_5ffull_4',['is_someone_dead_or_full',['../dinner__monitor_8c.html#a68121efd2767be3a5a0c23ac6bd380bf',1,'dinner_monitor.c']]],
+  ['it_20works_5',['⚙️ How It Works',['../index.html#autotoc_md4',1,'']]]
 ];

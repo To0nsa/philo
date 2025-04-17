@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['libft_20–_20c_20utility_20library_0',['libft – C Utility Library',['../index.html',1,'']]],
-  ['library_1',['libft – C Utility Library',['../index.html',1,'']]]
+  ['dining_20philosophers_20simulation_20in_20c_0',['philo – Dining Philosophers Simulation in C',['../index.html',1,'']]]
 ];

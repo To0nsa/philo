@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['main_0',['main',['../group__philosopher__core.html#ga3c04138a5bfe5d72780bb7e82a18e627',1,'main.c']]],
-  ['main_2ec_1',['main.c',['../main_8c.html',1,'']]],
-  ['max_5fphilo_2',['MAX_PHILO',['../group__philosopher__core.html#ga2761335f8fd88da52c5c0129b9f1610e',1,'philo.h']]],
-  ['meal_5fcount_3',['meal_count',['../group__philosopher__core.html#aa72931a616c3c4a839fb6e988c0ef374',1,'s_philo::meal_count'],['../group__philosopher__core.html#a95fa6accba86a22bba167a8d5ca9ac0e',1,'s_table::meal_count']]],
-  ['must_5feat_5fcount_4',['must_eat_count',['../group__philosopher__core.html#a7258b34ebd7f3a57da12079680697082',1,'s_table']]]
+  ['last_5fmeal_0',['last_meal',['../group__philosopher__core.html#aaff3ca469432176405ef2f8d034e79dc',1,'s_philo']]],
+  ['left_5ffork_1',['left_fork',['../group__philosopher__core.html#a6c444e24e4b53b00145b3500e9cb34fa',1,'s_philo']]],
+  ['license_2',['📝 License',['../index.html#autotoc_md8',1,'']]],
+  ['lone_5fphilosopher_3',['lone_philosopher',['../dinner__routine_8c.html#aae331e9c70da4333e83ab47302e99481',1,'dinner_routine.c']]]
 ];

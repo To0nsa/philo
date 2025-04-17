@@ -1,12 +1,14 @@
 var searchData=
 [
-  ['t_5fphilo_0',['t_philo',['../group__philosopher__core.html#ga0d206e16dd1bb27bd2f159c1fa87173d',1,'philo.h']]],
-  ['t_5ftable_1',['t_table',['../group__philosopher__core.html#gacce2a24e04039750ead2d646e2ecb618',1,'philo.h']]],
-  ['table_2',['table',['../group__philosopher__core.html#a10961cdefbde766af72091600626db69',1,'s_philo']]],
-  ['take_3',['TAKE',['../group__philosopher__core.html#ga5d59c0a2ab715a815f821541d94d09c8',1,'philo.h']]],
-  ['think_4',['THINK',['../group__philosopher__core.html#gab3fd8705bf275fd3f080dc354056ff3b',1,'philo.h']]],
-  ['thread_5',['thread',['../group__philosopher__core.html#aa057a8fde3946bf045a4383e55ba3da4',1,'s_philo']]],
-  ['time_5fto_5fdie_6',['time_to_die',['../group__philosopher__core.html#a2a3839a6429ef1c8663fc3509799bb42',1,'s_table']]],
-  ['time_5fto_5feat_7',['time_to_eat',['../group__philosopher__core.html#a5d86694ff3f0df52e8dafec9719f5176',1,'s_table']]],
-  ['time_5fto_5fsleep_8',['time_to_sleep',['../group__philosopher__core.html#afa0c16a063b0a8cf6eb240cb19765b78',1,'s_table']]]
+  ['s_5fphilo_0',['s_philo',['../group__philosopher__core.html#structs__philo',1,'']]],
+  ['s_5ftable_1',['s_table',['../group__philosopher__core.html#structs__table',1,'']]],
+  ['seat_5fphilosophers_5fat_5fthe_5ftable_2',['seat_philosophers_at_the_table',['../group__philosopher__core.html#gad655af8abc792bff4d2e23f93e679db8',1,'set_dinner.c']]],
+  ['set_5fdinner_2ec_3',['set_dinner.c',['../set__dinner_8c.html',1,'']]],
+  ['set_5fforks_5frules_4',['set_forks_rules',['../set__rules_8c.html#a45ba941976c09ff6ab1bc5d03cb50a09',1,'set_rules.c']]],
+  ['set_5frules_5',['set_rules',['../group__philosopher__core.html#ga8788285f4d0561b82e34d690c393ac1d',1,'set_rules.c']]],
+  ['set_5frules_2ec_6',['set_rules.c',['../set__rules_8c.html',1,'']]],
+  ['set_5ftable_7',['set_table',['../group__philosopher__core.html#ga05bda30cbcc4246b01081c09d16bf7a0',1,'set_dinner.c']]],
+  ['simulation_20in_20c_8',['philo – Dining Philosophers Simulation in C',['../index.html',1,'']]],
+  ['sleep_9',['SLEEP',['../group__philosopher__core.html#ga44e89d523436fcbbf2c56e4fb335d509',1,'philo.h']]],
+  ['start_5ftime_10',['start_time',['../group__philosopher__core.html#af41e5c89ceb7bdf4a5eb42421f4af87b',1,'s_table']]]
 ];

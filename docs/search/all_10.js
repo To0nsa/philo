@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['–_20c_20utility_20library_0',['libft – C Utility Library',['../index.html',1,'']]]
+  ['waiters_2ec_0',['waiters.c',['../waiters_8c.html',1,'']]],
+  ['welcome_5fphilosophers_1',['welcome_philosophers',['../group__philosopher__core.html#gae9eabd5eb5fe291006874dd47d37c025',1,'set_dinner.c']]],
+  ['works_2',['⚙️ How It Works',['../index.html#autotoc_md4',1,'']]]
 ];
