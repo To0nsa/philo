@@ -19,7 +19,7 @@ Philosophers alternate between thinking, eating, and sleeping, while competing f
 ## ✨ Philo Features
 
 <details>
-<summary><strong>see features</strong></summary>
+<summary><strong>See features</strong></summary>
 
 🔒 **Thread-Safe Synchronization**
 All shared resources (forks, output, state) are protected with pthread_mutex_t. The simulation ensures no data race or double-access can occur — every action is guarded for correctness and consistency.
@@ -46,7 +46,7 @@ This project deepens understanding of pthread basics, critical section design, t
 ## ⚙️ How It Works
 
 <details>
-<summary><strong>see how it works</strong></summary>
+<summary><strong>See how it works</strong></summary>
 
 The Dining Philosophers problem simulates a group of philosophers sitting around a table with forks placed between them. Each philosopher needs two forks to eat, one on their left and one on their right. The challenge is to design a system where philosophers can eat, sleep, and think without causing deadlocks or starvation.
 
